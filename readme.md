@@ -62,15 +62,3 @@ I am a **Masters in Computer Application** student at **Jaypee Institute of Info
 | **Tech:** React, Node, MongoDB, OpenAI, Stream SDK | **Tech:** React, Node, AWS S3/DynamoDB |
 | An AI-powered video calling platform enabling real-time conversations with custom AI agents. Features transcript generation and semantic search. | A virtual travel platform offering immersive 360° panoramas. Uses AWS for image processing and heavy caching. |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=him08&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Himanshi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=him08&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=him08&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
